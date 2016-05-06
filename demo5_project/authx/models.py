@@ -15,4 +15,10 @@ class User(AbstractUser):
     def __str__(self):
         return self.username
 
+<<<<<<< HEAD
 # soy vidal
+=======
+# Hola soy aldo
+# soy sullon
+
+>>>>>>> 961a6d95428bb3380af4a151b5addf436883a8ab
