@@ -16,6 +16,6 @@ class User(AbstractUser):
         return self.username
 
 # soy vidal mamani jordan
-
+#Soy Luis Miguel Céspedes.
 # Hola soy aldo
 # soy sullon
